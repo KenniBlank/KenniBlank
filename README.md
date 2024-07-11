@@ -1,11 +1,11 @@
 # Hi there, I'm Biraj Tiwari. 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/birajtwr?style=social)](https://twitter.com/birajtwr)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/birajtwr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/birajtiwari)
 
 ## 📈 GitHub Stats
 
-[![bishaltwr's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KenniBlank&theme=transparent)](https://github.com/KenniBlank)
+[![KenniBlank's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KenniBlank&theme=transparent)](https://github.com/KenniBlank)
 
 
 
