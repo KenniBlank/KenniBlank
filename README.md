@@ -8,7 +8,7 @@
 [![KenniBlank's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KenniBlank&theme=transparent)](https://github.com/KenniBlank)
 
 
-
+[![An image of @kenniblank's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kenniblank)](https://holopin.io/@kenniblank)
 
 
 <!--
