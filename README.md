@@ -11,7 +11,7 @@
 [![An image of @kenniblank's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kenniblank)](https://holopin.io/@kenniblank)
 
 
-- 📫 How to reach me: [*](https://birajtiwari.com.np/contact)
+- 📫 How to reach me: [Contact](https://birajtiwari.com.np/contact)
 <!--
 **KenniBlank/KenniBlank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
