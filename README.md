@@ -1,6 +1,6 @@
 # Hi there, I'm Biraj Tiwari. 👋
 
-[![Twitter](https://img.shields.io/twitter/follow/birajtwr?style=social)](https://twitter.com/birajtwr)
+[![Twitter](https://img.shields.io/twitter/follow/birajtwr?style=social&logo=x)](https://twitter.com/birajtwr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/birajtiwari)
 
 ## 📈 GitHub Stats
@@ -12,6 +12,8 @@
 
 
 - 📫 How to reach me: [Contact](https://birajtiwari.com.np/contact)
+
+![Visitor Count](https://profile-counter.glitch.me/KenniBlank/count.svg)
 <!--
 **KenniBlank/KenniBlank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
