@@ -17,14 +17,15 @@ Quick Link: 👉 [Contact Me](https://birajtiwari.com.np/contact)
 
 ## Projects?
 
-Welcome to the museum of my fleeting interests.  
+Welcome to the museum of my fleeting interests: [Repositories](https://github.com/KenniBlank?tab=repositories)
+
 Each repo is a love letter to whatever I was obsessed with that week and a time capsule of my skill and questionable decision at that time.
 
-Spoiler: There’s no grand vision, and am too lazy to manually add project links here. Enjoy the archaeological dig through my repo's.
+> Spoiler: There’s no grand vision, and am too lazy to manually add project links here. Enjoy the archaeological dig through my repo's.
 
 ## Links
 
-- [LinkedIn](https://www.linkedin.com/in/birajtiwari) — For people who think networking is a personality
+- [LinkedIn](https://www.linkedin.com/in/birajtiwari) — For networking
 - [Twitter](https://twitter.com/birajtwr) — I exist
 - [Website](https://birajtiwari.com.np) — Yes, it’s real. No, I don’t update it
 
